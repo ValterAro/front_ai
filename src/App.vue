@@ -1,8 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link> |
-    <router-link to="/sites">Sites</router-link>
+    <router-link to="/">Kodu</router-link> |
+    <router-link to="/about">Info</router-link> |
+    <router-link to="/sites">Leheküljed</router-link>
   </nav>
   <router-view/>
 </template>
