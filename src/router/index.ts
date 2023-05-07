@@ -3,11 +3,11 @@ import HomeView from '../views/HomeView.vue'
 import AiSitesView from "@/views/AiSitesView.vue";
 
 const routes: Array<RouteRecordRaw> = [
-  {
-    path: '/',
-    name: 'home',
-    component: HomeView
-  },
+  // {
+  //   path: '/',
+  //   name: 'home',
+  //   component: HomeView
+  // },
   {
     path: '/about',
     name: 'about',
